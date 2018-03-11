@@ -1,0 +1,39 @@
+body{
+	background-image:url("trav.jpg");
+	background-size:100% 700px;
+	background-position:fixed;
+	background-repeat:no-repeat;
+}
+
+nav ul li{
+	display:inline;
+	margin:5px;
+	
+}
+
+nav{
+	text-align:left;
+	border-bottom: 1px dotted black;
+
+}
+
+td{
+	border-bottom:1px solid black;
+	background:none;
+}
+
+nav ul li a{
+	text-decoration:none;
+	padding:3px;
+	font-weight:bold;
+	color:yellow;
+}
+
+nav ul li a:hover{
+	border-top:2px solid black;
+	border-bottom:2px solid black;
+	padding-top:1px;
+	padding-bottom:1px;
+	}
+
+
